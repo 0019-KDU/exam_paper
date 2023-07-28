@@ -57,6 +57,6 @@ Limit the displayed roots to a specific number of decimal places for a cleaner o
 Provide a user-friendly interface:
 
 Add clear instructions and messages to guide the user through the input process.
-Inform the user about the nature of the roots (real, complex) and any special cases encountered.*/m        
+Inform the user about the nature of the roots (real, complex) and any special cases encountered.*/     
     }
 }
