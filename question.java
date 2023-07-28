@@ -45,6 +45,18 @@ public class question{
         }
 
         scanner.close(); 
+        /*To advance the code, you can consider adding error handling, handling special cases, and providing a more user-friendly experience. Here are some improvements you can make to the quadratic equation solver:
 
+Handle special cases:
+
+If 'a' is 0, it is not a quadratic equation but a linear equation. Handle this case separately and find the root using the linear equation formula (b*x + c = 0).
+If 'a', 'b', and 'c' are all 0, it represents an identity equation (0x^2 + 0x + 0 = 0). In this case, any real number is a root.
+Handle precision:
+
+Limit the displayed roots to a specific number of decimal places for a cleaner output.
+Provide a user-friendly interface:
+
+Add clear instructions and messages to guide the user through the input process.
+Inform the user about the nature of the roots (real, complex) and any special cases encountered.*/m        
     }
 }
